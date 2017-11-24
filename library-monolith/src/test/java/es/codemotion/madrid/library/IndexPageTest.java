@@ -38,4 +38,5 @@ public class IndexPageTest {
         assertThat(page.getBody().getTextContent()).contains("Catalog");
     }
 
+
 }
